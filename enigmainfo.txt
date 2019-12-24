@@ -1,0 +1,5 @@
+enigmainfo.txt
+
+this is where i will be adding info for enigma secret nodes. 
+
+this is also a test.
